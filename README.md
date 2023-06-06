@@ -3,7 +3,7 @@
 <br>
 🔗[Link - Frontend Mentor Challenge](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62)
 <br>
-🔗[Frontend Mentor - My solution](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62/hub)
+🔗[Frontend Mentor - My solution](https://www.frontendmentor.io/solutions/sstats-preview-card-component-html-css-vanilla-HXR178373j)
 <br>
 🔗[Live site](https://mkdir-nicolas.github.io/stats-preview-card-component/)
 
