@@ -1,0 +1,30 @@
+body {
+    display: grid;
+    place-content: center;
+    height: 100vh;
+}
+
+main {
+    display: flex;
+    flex-direction: row-reverse;
+    width: 70%;
+    max-width: 1378px;
+    margin: auto;
+}
+
+section {
+    max-width: 55%;
+    text-align: start;
+    padding-inline-start: 6rem;
+    padding-inline-end: 11rem;
+}
+
+
+
+ul {
+    display: flex;
+}
+
+ul li {
+    margin-inline-end: 6rem;
+}
