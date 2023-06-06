@@ -27,9 +27,11 @@ main {
 
 picture {
     display: block;
-    position: relative;
 }
 
+.wrapper{
+    position: relative;
+}
 
 img {
     display: block;
